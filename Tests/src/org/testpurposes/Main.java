@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Romik01");
 
         System.out.println("Romik");
+        System.out.println("Romik");
 
         System.out.println("002");
         System.out.println("Vitalik02");
