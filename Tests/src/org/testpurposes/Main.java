@@ -11,5 +11,6 @@ public class Main {
         System.out.println("Vitalik02");
 
         System.out.println("Vitalik");
+        System.out.println("Vitalik");
     }
 }
