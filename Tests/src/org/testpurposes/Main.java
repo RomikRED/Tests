@@ -2,6 +2,13 @@ package org.testpurposes;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("DEV___");
+        System.out.println("11000");
+        System.out.println("12000");
+        System.out.println("11000");
+        System.out.println("12000");
+        System.out.println("11000");
+        System.out.println("12000");
+        System.out.println("12000");
     }
+
 }
