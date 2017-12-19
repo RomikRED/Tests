@@ -10,7 +10,7 @@ public class Main {
         System.out.println("001");
         System.out.println("001");
         System.out.println("001");
-        System.out.println("Romik01");
+        System.out.println("Romik01  ");
 
         System.out.println("Romik");
         System.out.println("Romik");
